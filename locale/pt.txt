@@ -5,8 +5,8 @@
 ### URL
 LinkBehaviour_D1CC13C1_DE45_2805_41E4_876A41979FC4.source = http://www.loremipsum.com
 LinkBehaviour_FFC3DEF8_DE5B_1802_41B8_C7B29927BC18.source = http://www.loremipsum.com
-LinkBehaviour_FFC7EEE4_DE5B_1802_41B0_71128440EDC0.source = https://idolink.bio/podcastnobar
-LinkBehaviour_C9671295_DE45_6802_41EB_C3035B31484E.source = https://idolink.bio/podcastnobar
+LinkBehaviour_FFC7EEE4_DE5B_1802_41B0_71128440EDC0.source = https://api.whatsapp.com/send?phone=5511950407466
+LinkBehaviour_C9671295_DE45_6802_41EB_C3035B31484E.source = https://api.whatsapp.com/send?phone=5511950407466
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 LinkBehaviour_FFC28EF9_DE5B_1802_41DA_5D63BF8B07F5.source = https://www.instagram.com/estudiopodcastnobar/
@@ -32,10 +32,10 @@ video_C5A259EC_DE45_1802_41DC_F8F5BA7EB0B8.label = Video Fliperama
 video_CE7EE496_DE4D_280E_41C0_357843EF45D1.label = Video TV
 
 ### Video
-videolevel_F6905CD3_DE47_1806_41DF_BFA238445777.posterURL = media/video_C5A259EC_DE45_1802_41DC_F8F5BA7EB0B8_poster_pt.jpg
-videolevel_F6905CD3_DE47_1806_41DF_BFA238445777.url = media/video_C5A259EC_DE45_1802_41DC_F8F5BA7EB0B8_pt.mp4
-videolevel_F622A198_DE47_2802_41D3_E9FC6940C6DC.posterURL = media/video_CE7EE496_DE4D_280E_41C0_357843EF45D1_poster_pt.jpg
-videolevel_F622A198_DE47_2802_41D3_E9FC6940C6DC.url = media/video_CE7EE496_DE4D_280E_41C0_357843EF45D1_pt.mp4
+videolevel_F5C31936_E53E_005A_41BB_E59B91913648.posterURL = media/video_C5A259EC_DE45_1802_41DC_F8F5BA7EB0B8_poster_pt.jpg
+videolevel_F5C31936_E53E_005A_41BB_E59B91913648.url = media/video_C5A259EC_DE45_1802_41DC_F8F5BA7EB0B8_pt.mp4
+videolevel_F5DC28F1_E53E_01D9_41EB_112A3C75FD4A.posterURL = media/video_CE7EE496_DE4D_280E_41C0_357843EF45D1_poster_pt.jpg
+videolevel_F5DC28F1_E53E_01D9_41EB_112A3C75FD4A.url = media/video_CE7EE496_DE4D_280E_41C0_357843EF45D1_pt.mp4
 
 ## Skin
 
